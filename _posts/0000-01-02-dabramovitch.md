@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+gaslight gatekeep github
 Use the left arrow to go back!
